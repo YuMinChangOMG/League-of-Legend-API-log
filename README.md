@@ -1,6 +1,7 @@
 # LoL API Project
 
 This repository contains a Jupyter Notebook that interacts with the League of Legends (LoL) API. The notebook is designed to fetch and analyze game-related data.
+<img src="https://github.com/user-attachments/assets/778d48cf-a140-470d-b9c1-234c72bcd5e1" alt="3907_lol" width="500">
 
 ## Features
 
