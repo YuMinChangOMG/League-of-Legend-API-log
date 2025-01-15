@@ -48,7 +48,5 @@ This repository contains a Jupyter Notebook that interacts with the League of Le
 - Ensure your LoL API key is valid and has appropriate access permissions.
 - The API has rate limits; manage requests to avoid being throttled.
 
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for more details.
+<img src="https://github.com/user-attachments/assets/5c032f05-9f82-4aa5-ad00-d6d82103a1ba" alt="3907_lol" width="100">
 
